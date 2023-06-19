@@ -1,11 +1,11 @@
 -- 게시판 테이블
-INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (1, '게시글 제목1', '게시글 내용1', '작성자1', NOW());
-INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (2, '게시글 제목2', '게시글 내용2', '작성자2', NOW());
-INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (3, '게시글 제목3', '게시글 내용3', '작성자3', NOW());
-INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (4, '게시글 제목4', '게시글 내용4', '작성자4', NOW());
-INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (5, '게시글 제목5', '게시글 내용5', '작성자5', NOW());
-INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (6, '게시글 제목6', '게시글 내용6', '작성자6', NOW());
-INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (7, '게시글 제목7', '게시글 내용7', '작성자7', NOW());
-INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (8, '게시글 제목8', '게시글 내용8', '작성자8', NOW());
-INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (9, '게시글 제목9', '게시글 내용9', '작성자9', NOW());
-INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (10, '게시글 제목10', '게시글 내용10', '작성자10', NOW());
+INSERT INTO TB_BOARD (BRD_NO, TITLE, CONTENTS, REG_NM, REG_DT) VALUES (1, '게시글 제목1', '게시글 내용1', '작성자1', NOW())
+, (2, '게시글 제목2', '게시글 내용2', '작성자2', NOW())
+, (3, '게시글 제목3', '게시글 내용3', '작성자3', NOW())
+, (4, '게시글 제목4', '게시글 내용4', '작성자4', NOW())
+, (5, '게시글 제목5', '게시글 내용5', '작성자5', NOW())
+, (6, '게시글 제목6', '게시글 내용6', '작성자6', NOW())
+, (7, '게시글 제목7', '게시글 내용7', '작성자7', NOW())
+, (8, '게시글 제목8', '게시글 내용8', '작성자8', NOW())
+, (9, '게시글 제목9', '게시글 내용9', '작성자9', NOW())
+, (10, '게시글 제목10', '게시글 내용10', '작성자10', NOW());
